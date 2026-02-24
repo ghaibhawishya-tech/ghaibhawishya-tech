@@ -1,45 +1,31 @@
 # Hi, I'm Bhawishya Ghai 👋
 
-### AI & Tech Builder | DSAI Student at Masters' Union | Gurugram, India
+### DSAI Student at Masters' Union | Gurugram, India
 
 ---
 
-I'm a first-year **Data Science & AI** student at **Masters' Union**, passionate about building real things at the intersection of **AI, product, and business**. I love turning ideas into working products — from AI chatbots to interactive web apps.
+I'm a first-year **Data Science & AI** student at **Masters' Union**. I'm interested in AI, product thinking, and how technology can solve real problems for real people.
+
+Right now I'm learning by building — experimenting with ideas, shipping small projects, and figuring things out as I go. Some of what I've built is rough around the edges, and that's fine. The goal is to keep building.
 
 ---
 
-## 🚀 What I Build
+## 📌 Projects I've Worked On
 
-- **AI-powered apps** — chatbots, writing assistants, prompt engineering tools
-- **Full-stack web projects** — Next.js, TypeScript, Firebase, Vercel
-- **Data & AI experiments** — APIs, automation, and scraping pipelines
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Python · TypeScript · JavaScript · HTML · C  
-**Frameworks:** Next.js · React  
-**Tools & Platforms:** Firebase · Vercel · OpenAI API · ElevenLabs · LangFlow · Apify  
-**Currently Learning:** LLM fine-tuning · LangChain · Data Visualization
+| Project | What it is |
+|---|---|
+| [visionprompt-ai](https://github.com/ghaibhawishya-tech/visionprompt-ai) | Turns a simple description into a structured prompt for AI image generators |
+| [prowriteai](https://github.com/ghaibhawishya-tech/prowriteai) | Writing assistant for students and professionals who need help getting ideas on paper |
+| [microsoft-timeline](https://github.com/ghaibhawishya-tech/microsoft-timeline) | Visual timeline of 50 years of Microsoft's history |
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [visionprompt-ai](https://github.com/ghaibhawishya-tech/visionprompt-ai) | AI-powered visual prompt generation tool | TypeScript, Next.js, Firebase |
-| [prowriteai](https://github.com/ghaibhawishya-tech/prowriteai) | Writing assistant for students and professionals | TypeScript, Next.js, Firebase |
-| [microsoft-timeline](https://github.com/ghaibhawishya-tech/microsoft-timeline) | Interactive timeline of 50 years of Microsoft innovation | HTML |
-
----
-
-## 🎯 Currently
+## 🎯 What I'm Focused On
 
 - Studying DSAI at **Masters' Union**, Gurugram
-- Building AI products and experimenting with new models
-- Interested in **AI + Business** — how technology creates real-world value
+- Building and shipping projects, even imperfect ones
+- Learning how AI intersects with product and business
+- Starting to write my own code — working through projects from scratch
 
 ---
 
@@ -47,8 +33,8 @@ I'm a first-year **Data Science & AI** student at **Masters' Union**, passionate
 
 - 📍 Gurugram, Haryana, India
 - 💼 LinkedIn: *(coming soon)*
-- 📧 Open to internships, collabs, and interesting ideas
+- Open to conversations about AI, products, and interesting ideas
 
 ---
 
-*"Build fast, learn faster."*
+*Still early. Learning fast.*
