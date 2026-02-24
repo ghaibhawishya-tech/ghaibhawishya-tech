@@ -14,6 +14,7 @@ Right now I'm learning by building — experimenting with ideas, shipping small 
 
 | Project | What it is |
 |---|---|
+| [PRIYA-CHATBOT](https://github.com/ghaibhawishya-tech/PRIYA-CHATBOT) | RAG-based AI scholarship advisor — matches students to scholarships, walks them through the full application process, with voice input, doc scanner, and a 3D career constellation |
 | [visionprompt-ai](https://github.com/ghaibhawishya-tech/visionprompt-ai) | Turns a simple description into a structured prompt for AI image generators |
 | [prowriteai](https://github.com/ghaibhawishya-tech/prowriteai) | Writing assistant for students and professionals who need help getting ideas on paper |
 | [microsoft-timeline](https://github.com/ghaibhawishya-tech/microsoft-timeline) | Visual timeline of 50 years of Microsoft's history |
