@@ -28,7 +28,7 @@ I care deeply about the intersection of **AI engineering**, **product thinking**
 
 | Project | What it does | Stack | Live |
 |---|---|---|---|
-| [PRIYA-CHATBOT](https://github.com/ghaibhawishya-tech/PRIYA-CHATBOT) | RAG-based AI scholarship advisor for first-gen students — voice I/O, doc scanner, interview prep mode, 100+ scholarships indexed | LangFlow, OpenAI, AstraDB, Crawl4AI, React | Private repo |
+| [PRIYA-CHATBOT](https://github.com/ghaibhawishya-tech/PRIYA-CHATBOT) | RAG-based AI scholarship advisor for first-gen students — voice I/O, doc scanner, interview prep mode, 100+ scholarships indexed | LangFlow, OpenAI, AstraDB, Crawl4AI, React | [Live](https://priya-chatbot.vercel.app/) |
 | [ProWriteAI](https://github.com/ghaibhawishya-tech/prowriteai) | Full-stack AI writing assistant — essays, resumes, LinkedIn posts, emails from one prompt | Next.js, TypeScript, LLM, Prompt Engineering | [Live](https://prowriteai.vercel.app) |
 | [VisionPrompt AI](https://github.com/ghaibhawishya-tech/visionprompt-ai) | Upload any image, get smart context-aware prompts using vision LLMs | Next.js, TypeScript, OpenAI Vision, Firebase | [Live](https://visionprompt-ai-sandy.vercel.app) |
 | [Microsoft Timeline](https://github.com/ghaibhawishya-tech/microsoft-timeline) | Interactive visual timeline of 50 years of Microsoft innovation (1975–2024) | HTML, JavaScript, CSS | [Live](https://microsoft-timeline-six.vercel.app) |
